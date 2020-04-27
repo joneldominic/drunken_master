@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # drunken_master
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# drunken_master
+>>>>>>> 09785e35c0befead87f02be88d38b845ea7aa46e
